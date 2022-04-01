@@ -1,0 +1,1 @@
+-i 1138_bus.mtx,vector.bin -o output.dat

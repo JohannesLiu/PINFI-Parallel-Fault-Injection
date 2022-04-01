@@ -1,0 +1,1 @@
+-i graph_input.dat -o output.dat

@@ -1,0 +1,1 @@
+-i reference.bin,frame.bin -o output.dat
