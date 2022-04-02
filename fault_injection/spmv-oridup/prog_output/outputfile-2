@@ -1,7 +1,0 @@
-CPU-based sparse matrix vector multiplication****
-Original version by Li-Wen Chang <lchang20@illinois.edu> and Shengzhao Wu<wu14@illinois.edu>
-This version maintained by Chris Rodrigues  ***********
-Converting COO to JDS format (1138x1138)
-4054 matrix entries, warp size = 1, row padding align = 1, pack size = 1
-
-**********************SDC DETECTED!**********************

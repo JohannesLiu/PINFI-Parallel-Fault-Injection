@@ -1,1 +1,0 @@
-python3 ./faultinject.py ./stencil-0.3 "-i 128x128x32.bin 128 128 32 100 -o output.dat" 143

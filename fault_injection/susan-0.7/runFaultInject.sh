@@ -1,1 +1,0 @@
-python3 ./faultinject.py ./susan-0.7 "input_small.pgm output.txt -s" 143

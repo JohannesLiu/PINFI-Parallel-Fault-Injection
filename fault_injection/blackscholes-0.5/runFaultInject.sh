@@ -1,1 +1,0 @@
-python3 ./faultinject.py ./blackscholes-0.5 "1 in_16K.txt output.txt" 143

@@ -1,1 +1,0 @@
-python3 ./faultinject.py ./spmv-1.0 "-i 1138_bus.mtx,vector.bin -o output.dat" 143

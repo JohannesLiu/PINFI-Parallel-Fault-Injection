@@ -1,6 +1,0 @@
-CPU-based 7 points stencil codes****
-Original version by Li-Wen Chang <lchang20@illinois.edu> and I-Jui Sung<sung10@illinois.edu>
-This version maintained by Chris Rodrigues  ***********
-IO        : 0.049576
-Compute   : 305.469433
-Timer Wall Time: 305.573944

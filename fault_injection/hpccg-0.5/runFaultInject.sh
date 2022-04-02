@@ -1,1 +1,0 @@
-python3 ./faultinject.py ./hpccg-0.5 "64 64 64" 15

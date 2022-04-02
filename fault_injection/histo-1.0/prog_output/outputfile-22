@@ -1,8 +1,0 @@
-Base implementation of histogramming.
-Maintained by Nady Obeid <obeid1@ece.uiuc.edu>
-
-IO        : 24.496573
- -Input     : 0.714752
- -Output    : 23.693046
-Compute   : 247.408817
-Timer Wall Time: 272.492920
