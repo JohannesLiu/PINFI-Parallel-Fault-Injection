@@ -1,0 +1,1 @@
+python3 ./faultinject.py ./sad-1.0 "-i reference.bin,frame.bin -o output.dat" 143

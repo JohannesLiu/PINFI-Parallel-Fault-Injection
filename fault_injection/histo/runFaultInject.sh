@@ -1,0 +1,1 @@
+python3 ./faultinject.py ./histo "-i img.bin 20 4 -o output.bmp" 143

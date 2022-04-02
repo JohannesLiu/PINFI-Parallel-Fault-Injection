@@ -1,0 +1,1 @@
+python3 ./faultinject.py ./susan-oridup "input_small.pgm output.txt -s" 143

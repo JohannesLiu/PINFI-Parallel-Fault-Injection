@@ -1,0 +1,1 @@
+python3 ./faultinject.py ./bfs2-1.0 "-i graph_input.dat -o output.dat" 143

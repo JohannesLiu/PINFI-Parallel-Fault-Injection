@@ -1,0 +1,39 @@
+
+
+ NAS Parallel Benchmarks (NPB3.3-SER-C) - EP Benchmark
+
+ Number of random numbers generated:        67108864
+
+EP Benchmark Results:
+
+N = 2^   25
+No. Gaussian Pairs =        26349296
+Sums =    -2.913785593587886E+03    -6.212786452273705E+03
+Counts: 
+  0       12279005
+  1       11727242
+  2        2202301
+  3         137343
+  4           3369
+  5             36
+  6              0
+  7              0
+  8              0
+  9              0
+
+
+ EP Benchmark Completed.
+ Class           =                        W
+ Size            =                 67108864
+ Iterations      =                        0
+ Operation type  = Random numbers generated
+ Verification    =             UNSUCCESSFUL
+ Version         =                    3.3.1
+
+--------------------------------------
+ Please send all errors/feedbacks to:
+ Center for Manycore Programming
+ cmp@aces.snu.ac.kr
+ http://aces.snu.ac.kr
+--------------------------------------
+
